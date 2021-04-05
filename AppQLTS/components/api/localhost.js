@@ -1,0 +1,1 @@
+export const localhost = 'http://10.6.71.64:9080/';
